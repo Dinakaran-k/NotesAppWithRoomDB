@@ -8,6 +8,10 @@ This is a simple Notes application built using Kotlin and Room Database.
 - Persistent storage using Room Database
 - User-friendly interface
 
+## Git Diagram
+![notesappwithroomdb](https://github.com/user-attachments/assets/5a2bd79e-02fc-4af7-a2e6-97b1024ef50d)
+
+
 ## Getting Started
 
 ### Prerequisites
